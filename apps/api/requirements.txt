@@ -1,0 +1,32 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+pydantic-settings==2.2.1
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+redis==5.0.4
+prometheus-client==0.20.0
+python-json-logger==2.0.7
+httpx==0.27.0
+pandas==2.2.2
+numpy==1.26.4
+python-jose[cryptography]==3.3.0
+boto3==1.34.82
+azure-mgmt-resource==23.1.1
+azure-identity==1.16.0
+google-cloud-resource-manager==1.12.3
+pyyaml==6.0.1
+requests==2.31.0
+jinja2==3.1.3
+python-git==3.1.43
+ansible-runner==2.3.6
+kubernetes==29.0.0
+# Resilience
+ansible==9.4.0
+terraform-config-inspect==1.2.0
+velero-python-client==0.1.0
+# Analytics
+scikit-learn==1.4.2
+scipy==1.13.0
+joblib==1.4.0
+statsmodels==0.14.2
